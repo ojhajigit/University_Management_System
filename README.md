@@ -41,15 +41,27 @@ The College Management System is a MERN Stack-based system with three different 
 Add one admin using postman and then you can login into admin panel and add student and faculty from admin section.
 
 1) Add Admin Credentials
-
-![image](https://github.com/krish-7104/College-Management-System/assets/95702005/c9560aff-0997-4ccc-96a1-7abe863d386f)
+Sample user
+login id: 1234
+password: 1234
  
 2) Add Admin Details
 
 ![image](https://github.com/krish-7104/College-Management-System/assets/95702005/1d7d25af-19ea-447d-b4b8-b7f8f341db98)
 
+3) Sample Faculty
+   login id: 007
+   password : Ako@007
+   
+4) Sample Student
+   login id: 5566
+   password: Aruj@123
+
+# Note
+#   Admin can add the faculty and student .Initially Enrollment Id is id and password for student and Employee id is id and password for faculty.
+#   After that they can change password accordingly.
+
 ## For Any Doubt Fell Free To Contact Me 🚀
 
-- [My Website](http://krishjotaniya.netlify.app/)
-- [Linkedin](https://www.linkedin.com/in/krishjotaniya/)
-- [krishjotaniya71@gmail.com](mailto:krishjotaniya71@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/abhishek-ojha-625500203/)
+- [abhishekkumarojha64@gmail.com](mailto:abhishekkumarojha64@gmail.com)
